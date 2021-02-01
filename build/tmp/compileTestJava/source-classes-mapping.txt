@@ -1,0 +1,4 @@
+com/automationpractice/runners/PurchasesRunner.java
+ com.automationpractice.runners.PurchasesRunner
+com/automationpractice/stepdefinitions/PurchasesStepdefinitions.java
+ com.automationpractice.stepdefinitions.PurchasesStepdefinitions

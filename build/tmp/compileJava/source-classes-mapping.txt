@@ -1,0 +1,40 @@
+com/automationpractice/interactions/OpenBrowser.java
+ com.automationpractice.interactions.OpenBrowser
+com/automationpractice/interactions/ImplicitWait.java
+ com.automationpractice.interactions.ImplicitWait
+com/automationpractice/utils/Builder.java
+ com.automationpractice.utils.Builder
+com/automationpractice/tasks/ValidationTask.java
+ com.automationpractice.tasks.ValidationTask
+com/automationpractice/tasks/TotalProductsTask.java
+ com.automationpractice.tasks.TotalProductsTask
+com/automationpractice/tasks/AddtoCartPopupTask.java
+ com.automationpractice.tasks.AddtoCartPopupTask
+com/automationpractice/tasks/AddToCartTask.java
+ com.automationpractice.tasks.AddToCartTask
+com/automationpractice/tasks/DressesTask.java
+ com.automationpractice.tasks.DressesTask
+com/automationpractice/tasks/PrintedDressTask.java
+ com.automationpractice.tasks.PrintedDressTask
+com/automationpractice/tasks/HomePageTask.java
+ com.automationpractice.tasks.HomePageTask
+com/automationpractice/tasks/TopsTask.java
+ com.automationpractice.tasks.TopsTask
+com/automationpractice/tasks/CheckoutTask.java
+ com.automationpractice.tasks.CheckoutTask
+com/automationpractice/tasks/BlousesTask.java
+ com.automationpractice.tasks.BlousesTask
+com/automationpractice/tasks/ContinueShoppingTask.java
+ com.automationpractice.tasks.ContinueShoppingTask
+com/automationpractice/questions/TotalValidatePRoducts.java
+ com.automationpractice.questions.TotalValidatePRoducts
+com/automationpractice/tasks/WomenTask.java
+ com.automationpractice.tasks.WomenTask
+com/automationpractice/tasks/EveningDresses.java
+ com.automationpractice.tasks.EveningDresses
+com/automationpractice/tasks/Authentication.java
+ com.automationpractice.tasks.Authentication
+com/automationpractice/tasks/CartTask.java
+ com.automationpractice.tasks.CartTask
+com/automationpractice/userinterfaces/ProductregisterUserinterfaces.java
+ com.automationpractice.userinterfaces.ProductregisterUserinterfaces

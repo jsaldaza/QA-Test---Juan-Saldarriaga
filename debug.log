@@ -1,0 +1,19 @@
+[0115/215757.396:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0115/215757.412:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0116/212330.635:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0116/212330.650:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0116/231206.101:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0116/231206.117:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0116/233657.246:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0119/205935.499:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0119/215724.363:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0119/215724.376:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0123/162159.890:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0123/162159.928:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0123/183650.387:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0123/184432.820:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0123/184432.835:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0123/201016.432:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0123/201016.447:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0128/144311.986:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0128/144312.011:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
